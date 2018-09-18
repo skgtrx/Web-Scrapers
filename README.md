@@ -19,6 +19,10 @@ These instructions will get you a copy of the project up and running on your loc
    Windows : [Download Python3 for Windows](https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe)
    
    Linux(Ubuntu):  
+   ```
+   sudo apt install python3
+   ```
+   Mac : 
 
 Say what the step will be
 
