@@ -99,9 +99,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Shashank Khandelwal**
-
-[LinkedIn](https://www.linked.com/in/shashank-khandelwal)
+* **Shashank Khandelwal : **
+[LinkedIn](https://www.linkedin.com/in/shashank-khandelwal)
 
 ## License
 
