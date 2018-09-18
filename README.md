@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-1) Must have Python3 installed on the system(Windows/Linux/Mac).
+1) Must have Python3 installed on the system(Windows/Linux).
 2) Must have Pip3 installed on the system.
 3) Must have libraries : numpy, pandas, bs4(beautiful soup), lxml, requests, urllib, urllib2 and scrapy.
 
@@ -22,8 +22,42 @@ These instructions will get you a copy of the project up and running on your loc
    ```
    sudo apt install python3
    ```
-   Mac : 
+2) How to install Pip3 on System.
+   
+   Go to [YouTube](www.youtube.com) and search for how to install pip3 for respective devices.
 
+3) How to install libraries in Python Environment.
+
+   Windows : Go to CMD 
+   Linux   : Go to Terminal(use sudo for granting all the permissions)
+   
+   Then follow the below commands one by one.
+   
+   ```
+   pip3 install numpy
+   ```
+   ```
+   pip3 install pandas
+   ```
+   ```
+   pip3 install bs4
+   ```
+   ```
+   pip3 install lxml
+   ```
+   ```
+   pip3 install requests
+   ```
+   ```
+   pip3 install urllib
+   ```
+   ```
+   pip3 install urllib2
+   ```
+   ```
+   pip3 install scrapy
+   ```
+   
 Say what the step will be
 
 ```
