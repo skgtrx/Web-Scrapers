@@ -14,8 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1) How to install Python3 on System.
-   Windows : [Download Python3 for Windows](https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe)
+1) How to install Python3 on System.\n
+   Windows : [Download Python3 for Windows](https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe)\n
    Linux(Ubuntu):  
 
 Say what the step will be
