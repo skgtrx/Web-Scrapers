@@ -11,6 +11,14 @@ These instructions will get you a copy of the project up and running on your loc
 1) Must have Python3 installed on the system(Windows/Linux/Mac).
 2) Must have Pip3 installed on the system.
 3) Must have libraries : numpy, pandas, bs4(beautiful soup), lxml, requests, urllib, urllib2 and scrapy.
+
+### Installing
+
+1) How to install Python3 on System :
+   Windows : [Download Python3 for Windows](https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe)
+
+Say what the step will be
+
 ```
 Follow below commands for installing Above mentioned libraries :
 pip3 install numpy
@@ -21,16 +29,6 @@ pip3 install requests
 pip3 install urllib
 pip3 install urllib2
 pip3 install scrapy
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
 ```
 
 And repeat
